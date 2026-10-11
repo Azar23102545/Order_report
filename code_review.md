@@ -36,7 +36,7 @@ Jag körde originalprogrammet först för att se vad det gör. Det läser `order
 
 ## 5. print() används istället för logging
 
-**Observation:** Programmet skriver status med `print()`, till exempel "Läste in 40 rader".
+**Observation:** Programmet skriver status med `print()`, till exempel "Läste in 80 rader".
 
 **Konsekvens:** Man kan inte styra nivåer, det finns ingen tid i utskrifterna och man kan inte spara loggen till fil. Varningar och fel ser likadana ut som vanlig info.
 
