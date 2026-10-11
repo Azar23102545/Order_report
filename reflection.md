@@ -1,4 +1,4 @@
-# Reflektion
+## Reflektion
 
 **1. Vilka var de viktigaste problemen i originalkoden?**
 Att allt låg i ett enda block som körde direkt när filen öppnades. Det gjorde koden svår att förstå och omöjlig att testa. Sen var det mycket kopierad kod för kategori och region, och felhanteringen fångade allt med en bred except som bara skrev ut Fel data.
